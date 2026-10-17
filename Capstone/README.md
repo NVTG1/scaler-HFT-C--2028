@@ -1,5 +1,10 @@
 # Build a Low-Latency Order Book
 
+* **Name:** Namami Verma
+* **Roll Number:** 24BCS10349
+* **Email:** namami.24bcs10349@sst.scaler.com
+
+
 ## 1. Project Overview
 
 This project implements three different single-threaded order books in C++17.
